@@ -36,8 +36,6 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=johmicrot&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johmicrot&langs_count=8)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=johmicrot)](https://github.com/johmicrot)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=johmicrot)](https://git.io/streak-stats)
