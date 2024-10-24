@@ -2,7 +2,7 @@
 
 ### About Me:
 - 😎 AI & ML Engineer with a focus on data analytics and AI innovations
-- 💥 Over 8 years of experience in building, training, and deploying models
+- 💥 Over 6 years of experience in building, training, and deploying models
 - ✨ Skilled in MLOps and managing projects
 - ⭐ Proficient in Python, TensorFlow, and Docker/Kubernetes
 
