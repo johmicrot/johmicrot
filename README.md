@@ -18,6 +18,7 @@
 
 ### Selected Projects:
 - Implementation of "Learning Fine-grained Image Similarity with Deep Ranking" by Google: [Deep-Ranking-For-Image-Similarity](https://github.com/johmicrot/Deep-Ranking-For-Image-Similarity)
+- Implementation of Stochastic Class-based Hard Example Mining for Deep Metric Learning in TensorFlow: [Stochastic-Class-Based-Hard-Example-Mining-for-Deep-Metric-Learning](https://github.com/johmicrot/Stochastic-Class-Based-Hard-Example-Mining-for-Deep-Metric-Learning)
 - Guide to Generate Google Static Earth Images with Urban Atlas Targets and Predict on Them: [Urban_Atlas_Prediction](https://github.com/johmicrot/Urban_Atlas_Prediction)
 - Basic Function that Converts RGB Images to HSI Components: [RGB-to-HSI](https://github.com/johmicrot/RGB-to-HSI)
 
